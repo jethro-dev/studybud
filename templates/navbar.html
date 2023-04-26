@@ -1,0 +1,12 @@
+<header>
+    <nav>
+        <a href="/">Logo</a>
+    </nav>
+
+    <form method="GET" action="{% url 'home' %}">
+        <input type="text" name="q" placeholder="Search rooms"/>
+    </form>
+
+    <a href="{% url 'login' %}">Login</a>
+</header>
+<hr>
