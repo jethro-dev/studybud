@@ -75,15 +75,15 @@
 ## About The Project
 
 [![StudyBud Screenshot][product-screenshot]](https://studybud-jethro.up.railway.app/)
-StudyBud is a full-stack social media application, built with `Python` and `Django`. Users can create a room, start a topic and chat! It is deployed to `Railway`.
+StudyBud is a full-stack social media application, built with `Python` and `Django`. Users can create a room, start a topic and chat! Data are stored in `PostgreSQL` database.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
 - [![Python][python.org]][python-url]
-
 - [![Django][django.com]][django-url]
+- [![Postgres][postgres.com]][postgres-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,3 +148,5 @@ Project Link: [https://github.com/jethro-dev/studybud](https://github.com/jethro
 [python.org]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [django-url]: https://www.djangoproject.com/
 [django.com]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+[postgres-url]: https://www.postgresql.org/
+[postgres.com]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
